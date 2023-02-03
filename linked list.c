@@ -22,7 +22,7 @@
 temp->link= start;
 start=temp;
  } 
- soritng
+ 
  
  }
 void delet()
